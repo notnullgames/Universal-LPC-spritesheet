@@ -1,3 +1,11 @@
+This is forked from [here](https://github.com/jrconway3/Universal-LPC-spritesheet).
+
+I wanted to mix & match gendered things like clothes & hair, and make an automatic color-system, so it's easy to make lots more combinations.
+
+
+# original README:
+
+
 SPECIAL NOTICE
 ======================
 
